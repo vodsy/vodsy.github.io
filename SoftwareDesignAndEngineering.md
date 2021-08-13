@@ -1,4 +1,4 @@
- ## Software Design and Engineering
+ ## Software Design and Engineering 
  
  
  Everything that I have learned so far as a computer science student has culminated in my most recent personal project: a recipe-sharing web application. This project pushed the boundaries on my software engineering and design skills because of the level of user interaction, the way this interaction translates to the front end, and the way it is handled on the back end. While this is still a work in progress and there is a lot of functionality I still want to add, the enhancement I decided to make to the software design is how users search for recipes. I was using a custom-weighted search vector with results that update as you type using asynchronous JavaScript and XML (AJAX) search. While creating this feature certainly felt like an accomplishment, I believe it was a clunky design that took away from the user experience. This design also invariably made it nearly impossible to filter a specific category of recipes while being linked from another page (i.e. click “Breakfast Recipes” on home page and it brings you to the browse page showing only breakfast recipes).
