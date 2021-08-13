@@ -14,7 +14,7 @@ Find middle of right half
 Make right-middle right child of root
 ```
 
-Below are screenshots of the new methods and [here](https://github.com/vodsy/BinarySearchTreeProject) is a link to the C++ file.
+Below are screenshots of the new methods and [here](https://github.com/vodsy/BinarySearchTreeProject/blob/main/BinarySearchTree.cpp) is a link to the C++ file.
 
 
 ![image](https://user-images.githubusercontent.com/57910664/129355818-875590c0-8e76-4439-9a15-91fc2843b05f.png)
